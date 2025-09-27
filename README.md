@@ -1,8 +1,8 @@
 # Hi, I'm Ryan Rodriguez!
 
- I'm a rising senior at **Boston University** majoring in **Computer Science** with a minor in **Innovation & Entrepreneurship**.
+ I'm a senior at **Boston University** majoring in **Computer Science** with a minor in **Innovation & Entrepreneurship**.
 
- I'm passionate about the transformative power of **Machine Learning** and **AI-driven innovation**. I believe software has the potential to revolutionize every corner of the world, and I’m committed to building tools and products that make a real-world impact.
+ I'm passionate about **Product Leadership** and **AI-driven innovation**. I believe software has the potential to revolutionize every corner of the world, and I’m committed to building tools that make a real-world impact.
 
 ---
 
